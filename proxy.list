@@ -1,5 +1,38 @@
 # telegram
+DOMAIN-SUFFIX,t.me
+DOMAIN-SUFFIX,tdesktop.com
+DOMAIN-SUFFIX,telegra.ph
+DOMAIN-SUFFIX,telegram.me
+DOMAIN-SUFFIX,telegram.org
+DOMAIN-SUFFIX,telesco.pe
+DOMAIN-SUFFIX,telegram.space
+DOMAIN-SUFFIX,cdn-telegram.org
+DOMAIN-SUFFIX,graph.org
+DOMAIN-SUFFIX,legitgram.org
+DOMAIN-SUFFIX,fragment.com
+DOMAIN-SUFFIX,ton.org
+DOMAIN-SUFFIX,tg.dev
+DOMAIN-SUFFIX,tx.me
+DOMAIN-SUFFIX,usercontent.dev
+DOMAIN-SUFFIX,comments.app
+DOMAIN-SUFFIX,contest.com
+DOMAIN-SUFFIX,quiz.directory
+DOMAIN-SUFFIX,stel.com
+DOMAIN-SUFFIX,telega.one
+DOMAIN-KEYWORD,telegram
+# >>> IPv4 网段 (包含用户提到的 95.161.0.0/16) <<<
+IP-CIDR,91.108.0.0/16,no-resolve
+IP-CIDR,149.154.160.0/20,no-resolve
+IP-CIDR,91.105.192.0/23,no-resolve
 IP-CIDR,95.161.0.0/16,no-resolve
+IP-CIDR,5.28.192.0/18,no-resolve
+IP-CIDR,109.239.140.0/24,no-resolve
+IP-CIDR,185.76.151.0/24,no-resolve
+# >>> IPv6 网段 <<<
+IP-CIDR6,2001:67c:4e8::/48,no-resolve
+IP-CIDR6,2001:b28:f23c::/47,no-resolve
+IP-CIDR6,2001:b28:f23f::/48,no-resolve
+IP-CIDR6,2a0a:f280::/29,no-resolve
 # Google 验证码 (虽然是 .net 但建议走代理保证加载)
 DOMAIN,www.recaptcha.net
 DOMAIN-KEYWORD,recaptcha
@@ -16,6 +49,8 @@ IP-CIDR6,2620:149:a44::/48,no-resolve
 IP-CIDR6,2403:300:a42::/48,no-resolve
 IP-CIDR6,2403:300:a51::/48,no-resolve
 IP-CIDR6,2a01:b740:a42::/48,no-resolve
+
+# 其他
 DOMAIN-KEYWORD,americanexpress
 DOMAIN-KEYWORD,bankmuscat
 DOMAIN-KEYWORD,prf
