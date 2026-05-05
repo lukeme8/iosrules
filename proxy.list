@@ -1,3 +1,9 @@
+# telegram
+IP-CIDR,95.161.0.0/16,no-resolve
+# Google 验证码 (虽然是 .net 但建议走代理保证加载)
+DOMAIN,www.recaptcha.net
+DOMAIN-KEYWORD,recaptcha
+# 苹果的推送服务
 DOMAIN-SUFFIX,push.apple.com
 DOMAIN-SUFFIX,akadns.net
 DOMAIN-KEYWORD,apple.com.edgekey.net
