@@ -3652,6 +3652,10 @@ DOMAIN,cdn.usefathom.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 
+#jav
+DOMAIN-KEYWORD,javmost
+DOMAIN-KEYWORD,missav
+
 # telegram
 DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,tdesktop.com
