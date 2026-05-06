@@ -1,8 +1,4 @@
-# 推荐写法
-DOMAIN-SUFFIX,cloudflare.com
-DOMAIN-SUFFIX,cloudflare.net
-DOMAIN-SUFFIX,hcaptcha.com
-DOMAIN-SUFFIX,recaptcha.net
+
 DOMAIN-SUFFIX,taoluqi.win
 DOMAIN-KEYWORD,yfamilys
 
